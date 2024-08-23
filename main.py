@@ -6,8 +6,8 @@ from pyorbital.orbital import Orbital
 import numpy as np
 import matplotlib.pyplot as plt
 
-USERNAME = 'lysyj.yua@edu.spbstu.ru'
-PASSWORD = 'vy_HqXZ_bBK_bA8'
+USERNAME = '*************************'
+PASSWORD = '*************************'
 
 # Средние энергии каналов в МэВ
 E_mean = [0.047, 0.334, 0.506, 0.800, 1.265, 2.000, 3.162, 5.060, 8.000, 10.000]
